@@ -60,7 +60,7 @@ This project demonstrates the design and implementation of an E-Commerce Order M
 **Bhavesh**  
 - Aspiring Data Analyst  
 - Experienced in SQL, Power BI, DAX, and Data Visualization  
-- [Connect with me on LinkedIn](#) (Add your link!)  
+- [Connect with me on LinkedIn](#) - https://www.linkedin.com/in/profilebhavesh  
 - [Visit my GitHub Profile](#) (Add your link!)
 
 ---
